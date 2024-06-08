@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(174, 219, 11);
+    color: blue;
+    height: 100vh ;
+}
+
+.home{
+    background-image: url('../images//pexels-david-besh-884788.jpg'), url("../images/pexels-chevanon-1335971.jpg");
+    background-repeat: no-repeat , no-repeat;
+}
